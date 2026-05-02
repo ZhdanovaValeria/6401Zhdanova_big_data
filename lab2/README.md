@@ -124,6 +124,10 @@ for year in available_years:
 
 
 ### 4. Результаты
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="786" height="727" alt="image" src="https://github.com/user-attachments/assets/50392cff-36b0-4847-a78a-5c76c1a30a9d" />
+
+
+<img width="494" height="641" alt="image" src="https://github.com/user-attachments/assets/22cc7837-0d87-4bcc-9d72-6ba80b77806c" />
+
+<img width="298" height="428" alt="image" src="https://github.com/user-attachments/assets/5ff60993-61a0-43b4-9a54-7efd2730f4de" />
+
