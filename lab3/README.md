@@ -36,7 +36,7 @@
 ### Результаты
 
 Все четыре задания выполнены и прошли соответствующие тесты:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="580" height="301" alt="image" src="https://github.com/user-attachments/assets/1e2262cc-122b-4b5c-ba0d-40bb5615d252" />
+<img width="595" height="220" alt="image" src="https://github.com/user-attachments/assets/7df461b9-9b1e-46ef-a2ef-6c4f0cd99cfa" />
+<img width="577" height="241" alt="image" src="https://github.com/user-attachments/assets/ceecc94f-30bb-40f8-8354-2122e0007758" />
+<img width="581" height="231" alt="image" src="https://github.com/user-attachments/assets/150599ba-68f9-45ec-964b-46a4c0c73b51" />
