@@ -53,7 +53,8 @@ top_bike_id = bike_max_duration.first()["bike_id"]
 ```
 Результат: 
 
-![alt text](image-2.png)
+<img width="701" height="367" alt="image" src="https://github.com/user-attachments/assets/5dea2b76-fdfa-4b02-87bc-85e94386b720" />
+
 
 Вывод: велосипед с ID 535 набрал суммарное время пробега 36 897 410 секунд (более 427 суток).
 
@@ -92,7 +93,8 @@ max_geo_dist = (
 )
 max_geo_dist.select("a.id", "b.id", "distance_km").show(1)
 ```
-Результат: ![alt text](image-3.png)
+Результат: <img width="780" height="365" alt="image" src="https://github.com/user-attachments/assets/52937c1a-d92c-4ab3-a261-58b7caa0d878" />
+
 Вывод:
 Максимальное расстояние между станциями — около 69.92 км (станции с ID 16 и 60).
 
@@ -114,7 +116,8 @@ bike_path = (
 bike_path.show(bike_path.count(), truncate=False)
 ```
 Результат (фрагмент): 
-![alt text](image-5.png)
+<img width="1271" height="621" alt="image" src="https://github.com/user-attachments/assets/25cafba4-f9ba-4dfb-80e6-093fb83b241c" />
+
 Вывод: траектория велосипеда 535 охватывает множество станций Сан-Франциско, часто возвращаясь к ключевым узлам (Caltrain, Ferry Building, Market Street).
 
 ## Задание 4. Найти количество велосипедов в системе
@@ -124,7 +127,8 @@ bike_path.show(bike_path.count(), truncate=False)
 total_bikes = trips.select("bike_id").distinct().count()
 print(f"Количество уникальных велосипедов: {total_bikes}")
 ```
-Результат: ![alt text](image-6.png)
+Результат: <img width="730" height="64" alt="image" src="https://github.com/user-attachments/assets/7ce504aa-3c41-4057-b6a9-b66a654e2c13" />
+
 
 ## Задание 5. Найти пользователей, потративших на поездки более 3 часов
 Логика решения:
@@ -143,4 +147,5 @@ pro_users = (
 )
 pro_users.show()
 ```
-Результат: ![alt text](image-7.png)
+Результат: <img width="394" height="774" alt="image" src="https://github.com/user-attachments/assets/737bd97a-511a-45ce-83aa-fbda6ec92da5" />
+
